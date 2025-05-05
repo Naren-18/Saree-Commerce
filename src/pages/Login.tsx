@@ -123,14 +123,7 @@ const Login = () => {
           </button>
         </div>
 
-        {/* Add demo credentials info */}
-        <div className="mt-4 p-4 bg-[#f9f1e7] rounded-lg border border-[#d3b17d]">
-          <p className="text-sm text-[#8b4513]">
-            <strong>Demo Credentials:</strong><br />
-            Username: admin<br />
-            Password: admin
-          </p>
-        </div>
+       
       </motion.div>
     </div>
   );
