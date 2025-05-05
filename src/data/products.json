@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Banarasi Silk Saree",
+    "price": 15999,
+    "description": "Traditional Banarasi silk saree with intricate zari work",
+    "image": "/sarees/banarasi.jpg",
+    "category": "Silk"
+  },
+  {
+    "id": 2,
+    "name": "Handloom Cotton Saree",
+    "price": 3999,
+    "description": "Comfortable handloom cotton saree with temple border",
+    "image": "/sarees/cotton.jpg",
+    "category": "Cotton"
+  },
+  {
+    "id": 3,
+    "name": "Designer Party Wear",
+    "price": 12999,
+    "description": "Contemporary designer saree with modern prints",
+    "image": "/sarees/designer.jpg",
+    "category": "Designer"
+  },
+  {
+    "id": 4,
+    "name": "Kanjeevaram Silk",
+    "price": 25999,
+    "description": "Pure Kanjeevaram silk saree with traditional motifs",
+    "image": "/sarees/kanjeevaram.jpg",
+    "category": "Traditional"
+  },
+  {
+    "id": 5,
+    "name": "Linen Cotton Blend",
+    "price": 4999,
+    "description": "Lightweight linen-cotton blend saree for daily wear",
+    "image": "/sarees/linen.jpg",
+    "category": "Cotton"
+  },
+  {
+    "id": 6,
+    "name": "Embroidered Georgette",
+    "price": 8999,
+    "description": "Designer georgette saree with hand embroidery",
+    "image": "/sarees/georgette.jpg",
+    "category": "Designer"
+  }
+]

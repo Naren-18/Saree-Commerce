@@ -1,0 +1,107 @@
+/* Traditional Indian Color Scheme */
+:root {
+  --color-brown: #8b4513;
+  --color-terracotta: #d35400;
+  --color-cream: #f9f1e7;
+  --color-light-cream: #fdf6ed;
+  --color-gold: #d3b17d;
+  --color-ivory: #fffcf5;
+}
+
+body {
+  background-color: var(--color-light-cream) !important;
+}
+
+/* Navbar Styling */
+.navbar-custom {
+  background-color: var(--color-cream) !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+}
+
+.navbar-logo {
+  color: var(--color-brown) !important;
+}
+
+.navbar-logo span {
+  color: var(--color-terracotta) !important;
+}
+
+/* Button Styling */
+.btn-primary {
+  background-color: var(--color-terracotta) !important;
+  color: white !important;
+  border: none !important;
+}
+
+.btn-secondary {
+  background-color: var(--color-brown) !important;
+  color: white !important;
+  border: none !important;
+}
+
+/* Product Card Styling */
+.product-card {
+  background-color: var(--color-ivory) !important;
+  border-radius: 0.375rem !important;
+  overflow: hidden !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+  border: 1px solid var(--color-gold) !important;
+}
+
+.product-card-top-line {
+  height: 4px;
+  background-color: var(--color-terracotta) !important;
+  width: 100%;
+}
+
+.product-title {
+  color: var(--color-brown) !important;
+  font-weight: 600 !important;
+}
+
+.product-price {
+  color: var(--color-terracotta) !important;
+  font-weight: 700 !important;
+}
+
+.category-tag {
+  background-color: var(--color-cream) !important;
+  color: var(--color-terracotta) !important;
+  border: 1px solid var(--color-gold) !important;
+}
+
+/* Hero Section */
+.hero-title {
+  color: var(--color-cream) !important;
+}
+
+/* Footer */
+.footer {
+  background-color: var(--color-brown) !important;
+  color: var(--color-cream) !important;
+}
+
+/* Search and Filter */
+.search-input {
+  border-color: var(--color-gold) !important;
+}
+
+.category-btn {
+  color: var(--color-brown) !important;
+  border: 1px solid var(--color-gold) !important;
+}
+
+.category-btn.active {
+  background-color: var(--color-terracotta) !important;
+  color: white !important;
+  border: none !important;
+}
+
+/* Section Titles */
+.section-title {
+  color: var(--color-brown) !important;
+}
+
+.section-line {
+  background-color: var(--color-terracotta) !important;
+}
